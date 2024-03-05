@@ -45,3 +45,4 @@ Solution solution = new();
 Console.WriteLine(solution.MinimumLength("ca"));
 Console.WriteLine(solution.MinimumLength("cabaabac"));
 Console.WriteLine(solution.MinimumLength("aabccabba"));
+Console.WriteLine(solution.MinimumLength("bbbbbbbbbbbbbbbbbbbbbbbbbbbabbbbbbbbbbbbbbbccbcbcbccbbabbb"));
