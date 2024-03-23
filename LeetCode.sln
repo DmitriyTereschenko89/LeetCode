@@ -5,7 +5,19 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GreatestCommonDivisorTraversal", "GreatestCommonDivisorTraversal\GreatestCommonDivisorTraversal.csproj", "{ECA650B4-D49F-46BE-ABE7-875243E5C1CB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MinimumLengthStringAfterDeletingSimilarEnds", "MinimumLengthStringAfterDeletingSimilarEnds\MinimumLengthStringAfterDeletingSimilarEnds.csproj", "{1CBD1EF8-5D44-4ABC-B02B-BF57BC9AFF11}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MinimumLengthStringAfterDeletingSimilarEnds", "MinimumLengthStringAfterDeletingSimilarEnds\MinimumLengthStringAfterDeletingSimilarEnds.csproj", "{1CBD1EF8-5D44-4ABC-B02B-BF57BC9AFF11}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Custon Sort String", "Custon Sort String\Custon Sort String.csproj", "{AC8BD3D0-31D4-41E0-A9D6-D022C79397B8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Zero Sum Consecutive Nodes from Linked List", "Remove Zero Sum Consecutive Nodes from Linked List\Remove Zero Sum Consecutive Nodes from Linked List.csproj", "{343CA140-A667-44F7-8A89-1A068F76F377}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the Pivot Integer", "Find the Pivot Integer\Find the Pivot Integer.csproj", "{8B31FBD8-BF66-46F3-96DD-5350C5AA4ABC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print matrix in diagonal pattern", "Print matrix in diagonal pattern\Print matrix in diagonal pattern.csproj", "{2CE815A8-A7DE-4B07-BE73-C68EAF7296C6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Linked List", "Palindrome Linked List\Palindrome Linked List.csproj", "{3CD98F68-9F19-42D3-9843-B43632296571}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Gap", "Maximum Gap\Maximum Gap.csproj", "{896C77C7-1347-48DE-8710-C8680640E78B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +33,30 @@ Global
 		{1CBD1EF8-5D44-4ABC-B02B-BF57BC9AFF11}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CBD1EF8-5D44-4ABC-B02B-BF57BC9AFF11}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CBD1EF8-5D44-4ABC-B02B-BF57BC9AFF11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8BD3D0-31D4-41E0-A9D6-D022C79397B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8BD3D0-31D4-41E0-A9D6-D022C79397B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8BD3D0-31D4-41E0-A9D6-D022C79397B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8BD3D0-31D4-41E0-A9D6-D022C79397B8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{343CA140-A667-44F7-8A89-1A068F76F377}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{343CA140-A667-44F7-8A89-1A068F76F377}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{343CA140-A667-44F7-8A89-1A068F76F377}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{343CA140-A667-44F7-8A89-1A068F76F377}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8B31FBD8-BF66-46F3-96DD-5350C5AA4ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B31FBD8-BF66-46F3-96DD-5350C5AA4ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B31FBD8-BF66-46F3-96DD-5350C5AA4ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B31FBD8-BF66-46F3-96DD-5350C5AA4ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CE815A8-A7DE-4B07-BE73-C68EAF7296C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CE815A8-A7DE-4B07-BE73-C68EAF7296C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CE815A8-A7DE-4B07-BE73-C68EAF7296C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CE815A8-A7DE-4B07-BE73-C68EAF7296C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CD98F68-9F19-42D3-9843-B43632296571}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CD98F68-9F19-42D3-9843-B43632296571}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CD98F68-9F19-42D3-9843-B43632296571}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CD98F68-9F19-42D3-9843-B43632296571}.Release|Any CPU.Build.0 = Release|Any CPU
+		{896C77C7-1347-48DE-8710-C8680640E78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{896C77C7-1347-48DE-8710-C8680640E78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{896C77C7-1347-48DE-8710-C8680640E78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{896C77C7-1347-48DE-8710-C8680640E78B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
