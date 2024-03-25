@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print matrix in diagonal pa
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Palindrome Linked List", "Palindrome Linked List\Palindrome Linked List.csproj", "{3CD98F68-9F19-42D3-9843-B43632296571}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Gap", "Maximum Gap\Maximum Gap.csproj", "{896C77C7-1347-48DE-8710-C8680640E78B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Gap", "Maximum Gap\Maximum Gap.csproj", "{896C77C7-1347-48DE-8710-C8680640E78B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find All Duplicates in an Array", "Find All Duplicates in an Array\Find All Duplicates in an Array.csproj", "{03A2A3FB-9231-4DF6-9798-95F1EBD6567B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{896C77C7-1347-48DE-8710-C8680640E78B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{896C77C7-1347-48DE-8710-C8680640E78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{896C77C7-1347-48DE-8710-C8680640E78B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03A2A3FB-9231-4DF6-9798-95F1EBD6567B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A2A3FB-9231-4DF6-9798-95F1EBD6567B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A2A3FB-9231-4DF6-9798-95F1EBD6567B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A2A3FB-9231-4DF6-9798-95F1EBD6567B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
