@@ -63,7 +63,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Average Waiting Time", "Ave
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Score From Removing Substrings", "Maximum Score From Removing Substrings\Maximum Score From Removing Substrings.csproj", "{3F792C71-535F-4B27-853D-D7F6ACC86979}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Robot Collisions", "Robot Collisions\Robot Collisions.csproj", "{FDCF973E-90EB-48D5-95AF-F362004C516F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Robot Collisions", "Robot Collisions\Robot Collisions.csproj", "{FDCF973E-90EB-48D5-95AF-F362004C516F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number of Atoms", "Number of Atoms\Number of Atoms.csproj", "{7CB54663-58D6-4700-912C-FAECB117C342}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create Binary Tree From Descriptions", "Create Binary Tree From Descriptions\Create Binary Tree From Descriptions.csproj", "{0D58AB57-20C2-4988-9B39-4CA2E53C4EBB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step-By-Step Directions From a Binary Tree Node to Another", "Step-By-Step Directions From a Binary Tree Node to Another\Step-By-Step Directions From a Binary Tree Node to Another.csproj", "{7AEFA718-EDA4-43E9-B89F-24C396267081}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete Nodes And Return Forest", "Delete Nodes And Return Forest\Delete Nodes And Return Forest.csproj", "{0B1A723C-FE6E-436F-A309-76BE4BBAC089}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -195,6 +203,22 @@ Global
 		{FDCF973E-90EB-48D5-95AF-F362004C516F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDCF973E-90EB-48D5-95AF-F362004C516F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDCF973E-90EB-48D5-95AF-F362004C516F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB54663-58D6-4700-912C-FAECB117C342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB54663-58D6-4700-912C-FAECB117C342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB54663-58D6-4700-912C-FAECB117C342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB54663-58D6-4700-912C-FAECB117C342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D58AB57-20C2-4988-9B39-4CA2E53C4EBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D58AB57-20C2-4988-9B39-4CA2E53C4EBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D58AB57-20C2-4988-9B39-4CA2E53C4EBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D58AB57-20C2-4988-9B39-4CA2E53C4EBB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AEFA718-EDA4-43E9-B89F-24C396267081}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AEFA718-EDA4-43E9-B89F-24C396267081}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AEFA718-EDA4-43E9-B89F-24C396267081}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AEFA718-EDA4-43E9-B89F-24C396267081}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
