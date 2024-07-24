@@ -71,7 +71,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Create Binary Tree From Des
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Step-By-Step Directions From a Binary Tree Node to Another", "Step-By-Step Directions From a Binary Tree Node to Another\Step-By-Step Directions From a Binary Tree Node to Another.csproj", "{7AEFA718-EDA4-43E9-B89F-24C396267081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delete Nodes And Return Forest", "Delete Nodes And Return Forest\Delete Nodes And Return Forest.csproj", "{0B1A723C-FE6E-436F-A309-76BE4BBAC089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Delete Nodes And Return Forest", "Delete Nodes And Return Forest\Delete Nodes And Return Forest.csproj", "{0B1A723C-FE6E-436F-A309-76BE4BBAC089}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Number of Good Leaf Nodes Pairs", "Number of Good Leaf Nodes Pairs\Number of Good Leaf Nodes Pairs.csproj", "{EBC5EFF0-1F5B-485B-AD4D-4515C6B98F94}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lucky Numbers in a Matrix", "Lucky Numbers in a Matrix\Lucky Numbers in a Matrix.csproj", "{EA90DF62-7C17-46CA-B23D-CB40CD541C81}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find Valid Matrix Given Row and Column Sums", "Find Valid Matrix Given Row and Column Sums\Find Valid Matrix Given Row and Column Sums.csproj", "{10FF70B3-CB70-4E81-A330-775DFD846614}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build a Matrix With Conditions", "Build a Matrix With Conditions\Build a Matrix With Conditions.csproj", "{425BB4C8-435B-4B7F-9229-F6B1E92B7E23}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort the People", "Sort the People\Sort the People.csproj", "{C43EABE6-73FB-4999-B540-C5291C3942AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort the Jumbled Numbers", "Sort the Jumbled Numbers\Sort the Jumbled Numbers.csproj", "{50A5444A-387B-4044-B439-3EE1FDB87BBC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -219,6 +231,30 @@ Global
 		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0B1A723C-FE6E-436F-A309-76BE4BBAC089}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBC5EFF0-1F5B-485B-AD4D-4515C6B98F94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBC5EFF0-1F5B-485B-AD4D-4515C6B98F94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBC5EFF0-1F5B-485B-AD4D-4515C6B98F94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBC5EFF0-1F5B-485B-AD4D-4515C6B98F94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA90DF62-7C17-46CA-B23D-CB40CD541C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA90DF62-7C17-46CA-B23D-CB40CD541C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA90DF62-7C17-46CA-B23D-CB40CD541C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA90DF62-7C17-46CA-B23D-CB40CD541C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10FF70B3-CB70-4E81-A330-775DFD846614}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10FF70B3-CB70-4E81-A330-775DFD846614}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10FF70B3-CB70-4E81-A330-775DFD846614}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10FF70B3-CB70-4E81-A330-775DFD846614}.Release|Any CPU.Build.0 = Release|Any CPU
+		{425BB4C8-435B-4B7F-9229-F6B1E92B7E23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{425BB4C8-435B-4B7F-9229-F6B1E92B7E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{425BB4C8-435B-4B7F-9229-F6B1E92B7E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{425BB4C8-435B-4B7F-9229-F6B1E92B7E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C43EABE6-73FB-4999-B540-C5291C3942AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C43EABE6-73FB-4999-B540-C5291C3942AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C43EABE6-73FB-4999-B540-C5291C3942AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C43EABE6-73FB-4999-B540-C5291C3942AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
