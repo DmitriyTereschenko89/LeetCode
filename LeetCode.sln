@@ -83,7 +83,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Build a Matrix With Conditi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort the People", "Sort the People\Sort the People.csproj", "{C43EABE6-73FB-4999-B540-C5291C3942AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sort the Jumbled Numbers", "Sort the Jumbled Numbers\Sort the Jumbled Numbers.csproj", "{50A5444A-387B-4044-B439-3EE1FDB87BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sort the Jumbled Numbers", "Sort the Jumbled Numbers\Sort the Jumbled Numbers.csproj", "{50A5444A-387B-4044-B439-3EE1FDB87BBC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the City With the Smallest Number of Neighbors at a Threshold Distance", "Find the City With the Smallest Number of Neighbors at a Threshold Distance\Find the City With the Smallest Number of Neighbors at a Threshold Distance.csproj", "{9832F449-226B-4FFB-925A-ACBA62CF224B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Cost to Convert String I", "Minimum Cost to Convert String I\Minimum Cost to Convert String I.csproj", "{717ED8DE-9466-4A57-B620-BF12DF03E5DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Minimum Time to Reach Destination", "Second Minimum Time to Reach Destination\Second Minimum Time to Reach Destination.csproj", "{CD5F7A60-2725-41E8-B146-05BBADFCB251}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -255,6 +261,18 @@ Global
 		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50A5444A-387B-4044-B439-3EE1FDB87BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9832F449-226B-4FFB-925A-ACBA62CF224B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9832F449-226B-4FFB-925A-ACBA62CF224B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9832F449-226B-4FFB-925A-ACBA62CF224B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9832F449-226B-4FFB-925A-ACBA62CF224B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717ED8DE-9466-4A57-B620-BF12DF03E5DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717ED8DE-9466-4A57-B620-BF12DF03E5DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717ED8DE-9466-4A57-B620-BF12DF03E5DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717ED8DE-9466-4A57-B620-BF12DF03E5DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
