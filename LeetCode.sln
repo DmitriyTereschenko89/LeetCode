@@ -89,7 +89,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Find the City With the Smal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Cost to Convert String I", "Minimum Cost to Convert String I\Minimum Cost to Convert String I.csproj", "{717ED8DE-9466-4A57-B620-BF12DF03E5DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Second Minimum Time to Reach Destination", "Second Minimum Time to Reach Destination\Second Minimum Time to Reach Destination.csproj", "{CD5F7A60-2725-41E8-B146-05BBADFCB251}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Second Minimum Time to Reach Destination", "Second Minimum Time to Reach Destination\Second Minimum Time to Reach Destination.csproj", "{CD5F7A60-2725-41E8-B146-05BBADFCB251}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Count Number of Teams", "Count Number of Teams\Count Number of Teams.csproj", "{D8A4B933-9EE5-41AB-AFF7-92F97D90E4F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Deletions to Make String Balanced", "Minimum Deletions to Make String Balanced\Minimum Deletions to Make String Balanced.csproj", "{F7549B48-29C4-443D-940F-DC9DC7D68A75}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Filling Bookcase Shelves", "Filling Bookcase Shelves\Filling Bookcase Shelves.csproj", "{8CA852C5-0EEB-4D3C-BAC4-B1938FB445C5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Number of Pushes to Type Word II", "Minimum Number of Pushes to Type Word II\Minimum Number of Pushes to Type Word II.csproj", "{6F0758BA-EF31-478F-AE2E-81C5B2072A42}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Integer to English Words", "Integer to English Words\Integer to English Words.csproj", "{AB9B09AD-3228-48DE-A57B-64D038191236}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spiral Matrix III", "Spiral Matrix III\Spiral Matrix III.csproj", "{4133A284-BA80-4236-9C76-51B1F10325E3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Magic Squares In Grid", "Magic Squares In Grid\Magic Squares In Grid.csproj", "{8F5392A9-B985-45BC-AF2A-E565EC418735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Regions Cut By Slashes", "Regions Cut By Slashes\Regions Cut By Slashes.csproj", "{E040083D-C7EE-4F4E-8367-367F939E4477}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +289,38 @@ Global
 		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CD5F7A60-2725-41E8-B146-05BBADFCB251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D8A4B933-9EE5-41AB-AFF7-92F97D90E4F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8A4B933-9EE5-41AB-AFF7-92F97D90E4F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8A4B933-9EE5-41AB-AFF7-92F97D90E4F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8A4B933-9EE5-41AB-AFF7-92F97D90E4F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7549B48-29C4-443D-940F-DC9DC7D68A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7549B48-29C4-443D-940F-DC9DC7D68A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7549B48-29C4-443D-940F-DC9DC7D68A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7549B48-29C4-443D-940F-DC9DC7D68A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA852C5-0EEB-4D3C-BAC4-B1938FB445C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA852C5-0EEB-4D3C-BAC4-B1938FB445C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA852C5-0EEB-4D3C-BAC4-B1938FB445C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA852C5-0EEB-4D3C-BAC4-B1938FB445C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F0758BA-EF31-478F-AE2E-81C5B2072A42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F0758BA-EF31-478F-AE2E-81C5B2072A42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F0758BA-EF31-478F-AE2E-81C5B2072A42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F0758BA-EF31-478F-AE2E-81C5B2072A42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AB9B09AD-3228-48DE-A57B-64D038191236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AB9B09AD-3228-48DE-A57B-64D038191236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AB9B09AD-3228-48DE-A57B-64D038191236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AB9B09AD-3228-48DE-A57B-64D038191236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4133A284-BA80-4236-9C76-51B1F10325E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4133A284-BA80-4236-9C76-51B1F10325E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4133A284-BA80-4236-9C76-51B1F10325E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4133A284-BA80-4236-9C76-51B1F10325E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F5392A9-B985-45BC-AF2A-E565EC418735}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F5392A9-B985-45BC-AF2A-E565EC418735}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F5392A9-B985-45BC-AF2A-E565EC418735}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F5392A9-B985-45BC-AF2A-E565EC418735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E040083D-C7EE-4F4E-8367-367F939E4477}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E040083D-C7EE-4F4E-8367-367F939E4477}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E040083D-C7EE-4F4E-8367-367F939E4477}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E040083D-C7EE-4F4E-8367-367F939E4477}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

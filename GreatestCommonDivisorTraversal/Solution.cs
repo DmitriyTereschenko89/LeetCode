@@ -73,11 +73,13 @@
 						{
 							factorIndex[f] = i;
 						}
+
 						while (num % f == 0)
 						{
 							num /= f;
 						}
 					}
+
 					++f;
 				}
 				if (num > 1)
@@ -92,6 +94,7 @@
 					}
 				}
 			}
+
 			return uf.count == 1;
 		}
 	}
