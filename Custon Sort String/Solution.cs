@@ -15,7 +15,7 @@ namespace Custon_Sort_String
 			List<char>[] bucket = new List<char>[n];
 			for (int i = 0; i < n; ++i)
 			{
-				bucket[i] = new List<char>();
+				bucket[i] = [];
 			}
 			for (int i = 0; i < n; ++i)
 			{

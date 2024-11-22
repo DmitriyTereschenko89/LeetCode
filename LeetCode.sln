@@ -197,7 +197,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parsing A Boolean Expressio
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Split a String Into the Max Number of Unique Substrings", "Split a String Into the Max Number of Unique Substrings\Split a String Into the Max Number of Unique Substrings.csproj", "{A9FB65D4-9198-4F05-B428-9650CC83E937}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cousins in Binary Tree II", "Cousins in Binary Tree II\Cousins in Binary Tree II.csproj", "{8ED9D46F-D840-451A-BF0E-853C4A02B021}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Cousins in Binary Tree II", "Cousins in Binary Tree II\Cousins in Binary Tree II.csproj", "{8ED9D46F-D840-451A-BF0E-853C4A02B021}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Remove Sub-Folders from the Filesystem", "Remove Sub-Folders from the Filesystem\Remove Sub-Folders from the Filesystem.csproj", "{FA8274F8-31AB-48A9-81C7-DC2C2BA97558}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Minimum Total Distance Traveled", "Minimum Total Distance Traveled\Minimum Total Distance Traveled.csproj", "{14848C84-11DE-4DDE-8BC2-0E4345F7B5E1}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Subtraction Operation", "Prime Subtraction Operation\Prime Subtraction Operation.csproj", "{0B1C645F-2DEE-4A4D-81A7-933C5DE34A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Most Beautiful Item for Each Query", "Most Beautiful Item for Each Query\Most Beautiful Item for Each Query.csproj", "{BFF07843-985B-452E-A0C3-8ED62BB965E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shortest Subarray with Sum at Least K", "Shortest Subarray with Sum at Least K\Shortest Subarray with Sum at Least K.csproj", "{BECC4766-DFAD-4BAC-9AA2-3F3A0242498B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Maximum Sum of Distinct Subarrays With Length K", "Maximum Sum of Distinct Subarrays With Length K\Maximum Sum of Distinct Subarrays With Length K.csproj", "{34B3B8AC-732F-4C65-BC37-F841BF9F5CC1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Take K of Each Character From Left and Right", "Take K of Each Character From Left and Right\Take K of Each Character From Left and Right.csproj", "{E2C69131-7EB0-4C7A-A6D9-D54F43303D36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Count Unguarded Cells in the Grid", "Count Unguarded Cells in the Grid\Count Unguarded Cells in the Grid.csproj", "{C8D7D867-7792-4D3A-8D74-21E905426A1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -597,6 +613,38 @@ Global
 		{8ED9D46F-D840-451A-BF0E-853C4A02B021}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8ED9D46F-D840-451A-BF0E-853C4A02B021}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8ED9D46F-D840-451A-BF0E-853C4A02B021}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FA8274F8-31AB-48A9-81C7-DC2C2BA97558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA8274F8-31AB-48A9-81C7-DC2C2BA97558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA8274F8-31AB-48A9-81C7-DC2C2BA97558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA8274F8-31AB-48A9-81C7-DC2C2BA97558}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14848C84-11DE-4DDE-8BC2-0E4345F7B5E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14848C84-11DE-4DDE-8BC2-0E4345F7B5E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14848C84-11DE-4DDE-8BC2-0E4345F7B5E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14848C84-11DE-4DDE-8BC2-0E4345F7B5E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1C645F-2DEE-4A4D-81A7-933C5DE34A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1C645F-2DEE-4A4D-81A7-933C5DE34A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1C645F-2DEE-4A4D-81A7-933C5DE34A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1C645F-2DEE-4A4D-81A7-933C5DE34A44}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BFF07843-985B-452E-A0C3-8ED62BB965E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF07843-985B-452E-A0C3-8ED62BB965E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF07843-985B-452E-A0C3-8ED62BB965E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF07843-985B-452E-A0C3-8ED62BB965E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BECC4766-DFAD-4BAC-9AA2-3F3A0242498B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BECC4766-DFAD-4BAC-9AA2-3F3A0242498B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BECC4766-DFAD-4BAC-9AA2-3F3A0242498B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BECC4766-DFAD-4BAC-9AA2-3F3A0242498B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34B3B8AC-732F-4C65-BC37-F841BF9F5CC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34B3B8AC-732F-4C65-BC37-F841BF9F5CC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34B3B8AC-732F-4C65-BC37-F841BF9F5CC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34B3B8AC-732F-4C65-BC37-F841BF9F5CC1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2C69131-7EB0-4C7A-A6D9-D54F43303D36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2C69131-7EB0-4C7A-A6D9-D54F43303D36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2C69131-7EB0-4C7A-A6D9-D54F43303D36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2C69131-7EB0-4C7A-A6D9-D54F43303D36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8D7D867-7792-4D3A-8D74-21E905426A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8D7D867-7792-4D3A-8D74-21E905426A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8D7D867-7792-4D3A-8D74-21E905426A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8D7D867-7792-4D3A-8D74-21E905426A1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
